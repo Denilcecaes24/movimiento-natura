@@ -1,0 +1,20 @@
+  .contenedor_parc_esp .swiper {
+        width: 100%;
+        max-width: 1100px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+  }
+  
+  .contenedor_parc_esp .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 250px;
+        height: 250px;
+  }
+  
+  .contenedor_parc_esp .swiper-slide img {
+        display: block;
+        width: 100%;
+  }
+
+    
